@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Benas Darguzas 02_2 praktiniai.iml" filepath="$PROJECT_DIR$/Benas Darguzas 02_2 praktiniai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Converter.02_01/Converter.02_01.iml" filepath="$PROJECT_DIR$/Converter.02_01/Converter.02_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geometry.02_03/Geometry.02_03.iml" filepath="$PROJECT_DIR$/Geometry.02_03/Geometry.02_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Years.02_02/Years.02_02.iml" filepath="$PROJECT_DIR$/Years.02_02/Years.02_02.iml" />
+    </modules>
+  </component>
+</project>
