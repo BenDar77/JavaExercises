@@ -1,0 +1,15 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Matt: " 3 times.(Í…Í8¤½õ‘Ô1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Paul: " 3 times.(±ßÉÄùÿÿÿÿ8Ù˜ô‘Ô1
+]
+java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8â…â‘Ô1
+N
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8å…â‘Ô1
+L	java:S106"+Replace this use of System.out by a logger.(±ßÉÄùÿÿÿÿ8å…â‘Ô1
+G	java:S106"+Replace this use of System.out by a logger.(Í…Í8å…â‘Ô1
+L	java:S106"+Replace this use of System.out by a logger.(±ßÉÄùÿÿÿÿ8å…â‘Ô1
+G	java:S106"+Replace this use of System.out by a logger.(Í…Í8æ…â‘Ô1
+L	java:S106"+Replace this use of System.out by a logger.(±ßÉÄùÿÿÿÿ8æ…â‘Ô1
+G	java:S106"+Replace this use of System.out by a logger.(Í…Í8æ…â‘Ô1
