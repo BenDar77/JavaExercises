@@ -1,0 +1,6 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚›ÓÏ8á«ö†Ô1
+G	java:S106	"+Replace this use of System.out by a logger.(€ïÀ÷8×ø†Ô1
+F
+java:S1068")Remove this unused "knock" private field.(¼Ÿçª8ä«ö†Ô1

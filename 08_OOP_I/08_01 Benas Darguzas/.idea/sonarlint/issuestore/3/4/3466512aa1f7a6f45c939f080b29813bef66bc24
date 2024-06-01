@@ -1,0 +1,8 @@
+
+L	java:S106	"+Replace this use of System.out by a logger.(ğ˜Î ıÿÿÿÿ8”ªÔ1
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(Šäõÿÿÿÿÿ8ÏÙ¬Ô1
+G	java:S106"+Replace this use of System.out by a logger.(‹Ûçû8ĞÙ¬Ô1
+G	java:S106"+Replace this use of System.out by a logger.(­ãÛŠ8ĞÙ¬Ô1
+L	java:S106"+Replace this use of System.out by a logger.(÷¼Ú˜ûÿÿÿÿ8ÑÙ¬Ô1
+L	java:S106&"+Replace this use of System.out by a logger.(ğ˜Î ıÿÿÿÿ8ÒÙ¬Ô1
